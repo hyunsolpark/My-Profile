@@ -1,0 +1,20 @@
+.container{
+    width: 640px;
+}
+
+.info{
+    text-align: center;
+    font-style: italic;
+    color:darkblue;
+}
+
+.interests{
+    font-style: italic;
+    color:darkblue;
+    border-left: 3px solid greenyellow;
+    padding-left: 5px;
+}
+
+img{
+    border-radius: 13px;
+}
